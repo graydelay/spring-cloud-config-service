@@ -8,4 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/journey/study/spring-cloud/git-local-repo
+          uri: https://github.com/graydelay/spring-cloud-config.git
+#          uri: file:///Users/journey/study/spring-cloud/git-local-repo
